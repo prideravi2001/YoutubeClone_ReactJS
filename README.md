@@ -15,3 +15,13 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 ### Typescript
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+
+## 
+
+- import {useNavigate} from 'react-router-dom';
+- import {useParams} from 'react-router-dom';
+
+
+### [Netlify]()
+- _redirects file is used to fix the issue between  React & Netlify
+- 
