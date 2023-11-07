@@ -24,4 +24,6 @@ Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Tem
 
 ### [Netlify]()
 - _redirects file is used to fix the issue between  React & Netlify
+### [RapidAPI](https://rapidapi.com/ytdlfree/api/youtube-v31)
+- Have used RapidAPI for getting the all the requred response related to the youtube.
 - 
