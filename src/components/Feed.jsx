@@ -39,8 +39,9 @@ const Feed = () => {
         {/* mb -> marginBottom */}
         <Typography variant="h4" mb={2}
           fontWeight="bold"
-          sx={{ mt: 1.5, color: '#fff' }}>
+          sx={{ mt: 1.5, color: '#fff',justifyContent:'space-between' }}>
           {selectedCatagory} <span style={{ color: '#F31503' }}>Videos</span>
+          <span style={{color:'white',float:'right',margin:'0px 5px',fontSize:'large'}}>LinkedIn: <a style={{color:'white',textDecoration:'underline'}} href='https://www.linkedin.com/in/ravi-2001/'>Ravi Kant</a></span>
         </Typography>
 
         <Videos id='videoFeed' videos={videos} />
